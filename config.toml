@@ -1,0 +1,4 @@
+[app]
+host = "localhost"
+port = "6000"
+name = "logistic-go"

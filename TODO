@@ -1,0 +1,12 @@
+1. dependency / nama service yang mau dibuat
+1.1 entity
+1.2
+
+1. struktur code
+2. router (main route handler, middleware handler)
+3. config
+4. database connection
+5. controller layer (input output validation)
+6. service layer (business logic)
+7. repository layer (represent the data)
+9. custom http kalo mau ambil data dari external party via http connection
